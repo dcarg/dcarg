@@ -1,4 +1,4 @@
-### Hi there 👋
+### I'm a fullstack developer spending most of my time in react & ruby on rails. 
 
 <!--
 **dcarg/dcarg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
